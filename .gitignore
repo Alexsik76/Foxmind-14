@@ -3,6 +3,5 @@ __pycache__
 /staticfiles/
 /.env
 /db.sqlite3
-/node_modules/
-/assets/webpack_bundles/
-/webpack-stats.json
+
+
